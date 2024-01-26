@@ -23,7 +23,7 @@ const CascadingList = () => {
     ?.cities.map((city) => <option key={city.name}>{city.name}</option>);
 
   function handleCountryChange(event:any) {
-    setData((data) => ({ state: "", city: "", country: event.target.value }));
+    setData(() => ({ state: "", city: "", country: event.target.value }));
   }
 
   function handleStateChange(event:any) {
