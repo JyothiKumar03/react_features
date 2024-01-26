@@ -14,7 +14,7 @@ Tailwind CSS
 Getting Started
 
 Clone the repository:
-git clone https://github.com/your-username/react-features.git
+git clone https://github.com/JyothiKumar03/react-features.git
 
 Install dependencies:
 cd react-features
