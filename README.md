@@ -6,10 +6,10 @@ The Cascading Dropdown feature allows users to seamlessly select a country, dyna
 
 Demo
 
-Tech Stack
-React.js
-TypeScript
-Tailwind CSS
+Tech Stack =>
+React.js ,
+TypeScript ,
+Tailwind CSS 
 
 Getting Started
 
